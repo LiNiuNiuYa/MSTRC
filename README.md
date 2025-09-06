@@ -1,6 +1,6 @@
 # Design and Implementation of Metabolism Stability Prediction System Based on Graph Neural Networks
 
-**Author**: Yu Zhaolong  
+**Author**: Li zhongling  
 **Affiliation**: East China Jiaotong University
 
 ## Abstract
@@ -31,7 +31,7 @@ The Transformer-GNN model features:
 
 ## Interactive Demo
 
-🌐 **Try our models online**: [https://yzl.pythonanywhere.com](https://yzl.pythonanywhere.com)
+**Try our models online**: [https://yzl.pythonanywhere.com](https://yzl.pythonanywhere.com)
 
 ## Requirements
 
@@ -79,9 +79,6 @@ python main_trc.py
 
 Our models demonstrate significant improvements over baseline methods in predicting drug metabolism stability.
 
-## Acknowledgments
-
-Special thanks to **Li Zhongling** for guidance and supervision throughout this project.
 
 ## Contact
 
