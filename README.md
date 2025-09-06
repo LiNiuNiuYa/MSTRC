@@ -79,12 +79,6 @@ python main_trc.py
 
 Our models demonstrate significant improvements over baseline methods in predicting drug metabolism stability.
 
-
-## Contact
-
-**Yu Zhaolong**  
-East China Jiaotong University  
-
 ---
 
 **Interactive Demo**: [https://yzl.pythonanywhere.com](https://yzl.pythonanywhere.com)
