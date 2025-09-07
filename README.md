@@ -1,7 +1,19 @@
 # Design and Implementation of Metabolism Stability Prediction System Based on Graph Neural Networks
 
-**Author**: Li zhongling  
-**Affiliation**: East China Jiaotong University
+## Authors & Contributors
+**Li Zhongling** - East China Jiaotong University  
+**Yu Zhaolong** - East China Jiaotong University
+
+## Individual Contributions
+- **Li Zhongling**: 
+  - Python backend development and implementation
+  - GNN model architecture design and training
+  - System design and overall project architecture
+  - Model evaluation and performance optimization
+
+- **Yu Zhaolong**: 
+  - Frontend web development and user interface design
+  - Interactive demo website implementation
 
 ## Abstract
 
